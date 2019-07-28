@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: opencv-346.jar jna-platform-5.3.1.jar jna-5.3.1.jar opencv
+ -346.jar jna-platform-5.3.1.jar jna-5.3.1.jar
+Main-Class: Main
+
